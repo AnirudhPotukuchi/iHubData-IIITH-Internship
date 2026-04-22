@@ -1,0 +1,16 @@
+Metrics:
+    Precision: 0.621
+    Recall: 0.833
+    mAP@50: 0.888
+    mAP@50:95: 0.629
+
+Inference:
+    Precision = 62.1% means Of all detected objects, 62.1% were correct.
+    Recall = 83.3% means Model found 83.3% of actual objects.
+    mAP@50 = 88.8% means Strong detection quality at IoU threshold 0.50.
+    mAP@50:95 = 62.9% means More strict overall localization metric.
+
+Speed Metrics:
+    Preprocess: 1.8 ms
+    Inference: 70.3 ms
+    Postprocess: 1.5 ms
