@@ -1,0 +1,6 @@
+auto
+bike
+bus
+car
+person
+truck

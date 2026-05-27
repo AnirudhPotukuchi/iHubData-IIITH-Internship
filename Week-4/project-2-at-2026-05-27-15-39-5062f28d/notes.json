@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "auto"
+    },
+    {
+      "id": 1,
+      "name": "bike"
+    },
+    {
+      "id": 2,
+      "name": "bus"
+    },
+    {
+      "id": 3,
+      "name": "car"
+    },
+    {
+      "id": 4,
+      "name": "person"
+    },
+    {
+      "id": 5,
+      "name": "truck"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

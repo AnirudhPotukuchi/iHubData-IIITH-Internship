@@ -1,0 +1,13 @@
+path: dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: vehicle
+  1: vehicle
+  2: person
+  3: vehicle
+  4: vehicle
+  5: vehicle
