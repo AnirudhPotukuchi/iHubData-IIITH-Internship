@@ -8,3 +8,9 @@ model.train(
     imgsz=640,
     batch=8
 )
+
+model.predict(
+    source="your_video.mp4",
+    save=True,
+    save_format="mp4"
+)
